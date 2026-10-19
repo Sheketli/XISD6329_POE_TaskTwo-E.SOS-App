@@ -164,6 +164,18 @@ Estimated total project cost: **R 309,990** (rounded to R320,000 including manag
 - Requirement Analysis & System Design Document (Assignment POE Part 2)
 - Includes: WBS, Gantt & PERT charts, UML use case diagrams, class diagrams, ER diagrams, wireframes, and system reports.
 
+## GitHub Repository Link and Azura DevOps Git Repo for Mobile and Website Application links
+
+- GitHub Link: https://github.com/Sheketli/XISD6329_POE_TaskTwo-E.SOS-App.git 
+
+- Azura DevOps Git Repo for Mobile App link: https://dev.azure.com/ST10452756-XISD6321POE/E.SOS%20Project%20Software%20Application/_git/E.SOS%20Mobile%20App%20Project%20Software%20Application%20Repo 
+
+- Azura DevOps Git Repo for Website App link: https://dev.azure.com/ST10452756-XISD6321POE/E.SOS%20Project%20Software%20Application/_git/E.SOS%20Website%20App%20Project%20Software%20Application%20Repo
+
+## Demonstration Video Link
+
+- E.SOS Video Presentation link: https://youtu.be/uFZPVgoJxNo?si=g-nlOk9T8iaSSQNn
+
 ## Disclaimer
 
 This is an academic Work Integrated Learning (WIL) project developed for educational purposes in partnership with POWA. It is not currently a deployed, funded, or production system.
